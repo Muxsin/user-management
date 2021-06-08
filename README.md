@@ -1,5 +1,5 @@
 # Getting Started
-If you cloned this code then open the folder where located this code and run this scripts on command line/terminal  for installing libraries and then run  
+If you cloned this code then open the folder where located this code and run this scripts on command line/terminal:
 ## Available Scripts
 
 ### `npm install`
