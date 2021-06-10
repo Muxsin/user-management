@@ -23,7 +23,6 @@ class Form extends Component {
 
   render() {
     const style = {
-      margin: "24px 24%",
       padding: "24px",
       boxShadow: "0 0 4px rgba(32, 32, 32, 0.1)",
       backgroundColor: "#fefefe",
